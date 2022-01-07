@@ -1,13 +1,8 @@
 Pandas
-Md
 NumPy
-Md
 SciPy
-Md
 Matplotlib
-Md
 Seaborn
-Md
 Scikit learn
 
 Machine learning algorithm implementation & performance comparison
